@@ -14,6 +14,8 @@
 
   * We can perform a similar study on the average reading score by grade for each school type. Please see below for details. As shown, public schools had relatively higher reading scores than charter schools except for the 11th grade.
 
-  
+  <img src="Avg_reading_score.PNG" width=300>  
   
   * Similarly, we can study the average budget by grade for each school type. Please see below for details.
+
+  <img src="Avg_school_budget.PNG" width=300>  
